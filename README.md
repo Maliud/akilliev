@@ -33,3 +33,5 @@ Kullanılan Teknolojiler
 
 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-04 at 14 02 52](https://github.com/Maliud/akilliev/assets/72108306/65729c2f-ff5a-437c-8989-6328c984ebcf)
+
+https://www.youtube.com/watch?v=x0DlUh1bUqw
